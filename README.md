@@ -2,9 +2,6 @@
 
 I build AI systems and software — multi-agent orchestration, RAG pipelines, MCP servers, and full-stack applications.
 
-## Currently working with
-
-Claude API · LangGraph · Model Context Protocol (MCP) · RAG / vector search · FastAPI · React
 
 ## Tech Stack
 
